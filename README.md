@@ -6,7 +6,7 @@ Main repository for Parliament Connect - SIH 2022 finals (Winner)
 - [Parliament Connect Frontend](https://github.com/vsaravind01/Parliament-Connect-Frontend)
 
 <div align="center">
-<img src="https://github.com/vsaravind01/Parliament-Connect/blob/main/public/parliament-connect-flow.png" alt="parliament-connect-flow" width="80%" />
+<img src="https://portfolio-sa.s3.ap-south-1.amazonaws.com/parliament-connect-flow.png" alt="parliament-connect-flow" width="80%" />
 </div>
 
 ### Resources used :
